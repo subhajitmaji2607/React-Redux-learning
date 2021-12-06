@@ -1,0 +1,11 @@
+store = store contains all the reducer
+reducer = reducer is which we call state in only react app
+action creators  = action creators are functions to change the state
+...payload is optional for action creator
+...type is required for an action creator
+
+**After dispatching an action we've to handle it in reducer
+then in reducer we are going to handel what action is dispatch and update our new state appropriately
+
+react tutorial and project course
+-->store-->ui-->action-->reducer-->
